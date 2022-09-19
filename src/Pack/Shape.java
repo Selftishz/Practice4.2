@@ -1,2 +1,4 @@
-package Pack;public class Shape {
+package Pack;
+
+public class Shape {
 }
