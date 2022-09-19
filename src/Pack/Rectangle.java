@@ -3,7 +3,7 @@ package Pack;
 public class Rectangle extends Shape {
     private double radius;
 
-    public Rectangle(double a) {
+    public Rectangle(double radius) {
         this.radius = radius;
     }
 
